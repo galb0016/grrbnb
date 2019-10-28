@@ -21,9 +21,8 @@ main{
     border: 1px solid #aaa;
 }
 header{
-    /* Photo by Wyatt Ryan on Unsplash */
-    /* Replace this with an image that you select */
-    background-image: url(../img/wyatt-ryan-367017-unsplash.jpg);
+    /* Photo by freestocks.org on Unsplash */
+    background-image: url(../img/freestocks-org-t8SxccV0Agw-unsplash.jpg);
     background-size: 100% auto;
     background-position: center center;
 }
