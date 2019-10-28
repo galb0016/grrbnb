@@ -51,14 +51,14 @@ label{
     display: block;
     margin: 0;
     font-size: 1rem;
-    color: #3F1F24;
+    color: #51453F;
 }
 input{
     margin:0;
     font-size: 1rem;
     padding: 0.2rem 1rem;
     width: 100%;
-    color: #835A59;
+    color:#3A2924;
 }
 input#min.price::after,
 input.price#max::after{
@@ -72,7 +72,7 @@ input.price#max::after{
     font-size: 1rem;
     line-height: 1.5;
     padding: 0.25rem 1rem;
-    background-color:#D16641;
+    background-color: #C98C70;
     color: #fff;
 }
 @media all and (min-width:650px){
