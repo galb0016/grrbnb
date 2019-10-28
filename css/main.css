@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Slabo+27px&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Prociono&display=swap');
 /* make sure to select a new google font and use it for your header */
 
 *{
@@ -13,7 +14,7 @@
 html{
     font-size: 20px;
     line-height: 1.5;
-    font-family: 'Slabo 27px', serif, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    font-family: 'Slabo 27px', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 main{
     width: 90%;
@@ -35,6 +36,7 @@ header h1{
     vertical-align: top;
     text-align: right;
     min-height: 12rem;
+    font-family: 'Prociono', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 header img{
     width: 15%;
